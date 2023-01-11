@@ -1,2 +1,2 @@
-# Repo-de-Prueba-2
-Este es un repositorio de prueba del módulo 2 del Prep Course de HENRY
+Este repo es una prueba de cómo crear un repositorio y clonarlo desde GitHub a la computadora.
+
